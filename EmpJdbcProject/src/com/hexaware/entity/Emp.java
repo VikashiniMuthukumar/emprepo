@@ -1,4 +1,4 @@
-package com.hexaware.client;
+package com.hexaware.entity;
 
 public class Emp {
 	
